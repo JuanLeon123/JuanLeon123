@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.giftegwuenu.dev" target="_blanck">Website</a> •
-  <a href="https://www.instagram.com/juandiego.ledo/" target="_blanck">Instagram</a>
+  <a href="https://www.giftegwuenu.dev" target="_blank">Website</a> •
+  <a href="https://www.instagram.com/juandiego.ledo/" target="_blank">Instagram</a>
 </p>
 
  <!-- About section -->
