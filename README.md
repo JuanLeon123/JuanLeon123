@@ -70,7 +70,7 @@ I love sharing my knowledge with others, and I do that through content creation 
 
 <!-- Profile Views -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lauragift21&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=JuanLeon123&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
 </p>
 
 <!-- THE END -->
