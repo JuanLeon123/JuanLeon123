@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://www.giftegwuenu.dev">Website</a> •
-  <a href="https://twitter.com/lauragift_">Twitter</a>
+  <a href="https://www.instagram.com/juandiego.ledo/">Instagram</a>
 </p>
 
  <!-- About section -->
