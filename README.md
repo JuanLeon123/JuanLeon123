@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.giftegwuenu.dev">Website</a> •
+  [<a href="https://www.giftegwuenu.dev">Website</a>](url) •
   <a href="https://www.instagram.com/juandiego.ledo/">Instagram</a>
 </p>
 
