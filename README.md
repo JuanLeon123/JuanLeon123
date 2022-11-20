@@ -51,7 +51,7 @@ I love sharing my knowledge with others, and I do that through content creation 
  
  <div>
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lauragift21" alt="Gift's LangStat" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lauragift21&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Gift's language" height="192px"  width="500px"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanLeon123" alt="Gift's language" height="192px"  width="500px"/>
 </div>
 
 **Expand to view**
