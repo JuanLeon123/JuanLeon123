@@ -36,7 +36,7 @@ Me encanta compartir mis conocimientos con los demás, y lo hago a través de la
  
   <!-- GitHub section -->
 
- ##  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
+ ##  Mis estadísticas de github <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
  
  <div>
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JuanLeon123" alt="Gift's LangStat" />
@@ -51,7 +51,7 @@ Me encanta compartir mis conocimientos con los demás, y lo hago a través de la
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/lauragift21/"><img alt="Gift' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=JuanLeon123&custom_title=Gift's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/JuanLeon123/"><img alt="Gift' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=JuanLeon123&custom_title=Gift's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 </details>
 
