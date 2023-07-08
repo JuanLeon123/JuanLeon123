@@ -1,11 +1,6 @@
 <!-- Heading -->
 <h3 align="center"><img src = "https://media.tenor.com/rgI7Ze-_-bsAAAAC/hello-hello-there.gif" width = 30px> Hola, Soy Juan Diego</h3>
 
-<!-- Profile Views -->
-
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=JuanLeon123&label=Profile%20views&color=0e75b6&style=flat](https://avatars.githubusercontent.com/u/95734277?s=400&u=fbeb1b7faed94d83d418191839fe25415a1e2ffa&v=4)" alt="isrealodejobi" />
-</p>
-
 <p align="center">
   <!-- <a href="https://www.juanleon.dev">Website</a> --> •
   <a href="https://www.instagram.com/juandiego.ledo/">Instagram</a>
@@ -21,20 +16,18 @@ Me encanta compartir mis conocimientos con los demás, y lo hago a través de la
 <!-- code gif-->
 <img align="right" alt="GIF" src="./code.gif" width="500" height="320" />
 
-- 😄 My Pronouns: She/Her   
+- 😄 Mi pronombre: Her   
 
-- 💬 Ask me about: Vue, Jamstack, Building Career In Tech, Content Creation.
+- 💬 Sobre mí: Desarrollo de carrera en tecnología, trabajo en equipo.
 
-- 📫 How to reach me: [@lauragift_](https://twitter.com/lauragift_)
-
-- ⚡ Fun fact: I enjoy cooking and I'm known as the Mistress of Nigerian Jollof. If you don't know what that is [check it out here](https://www.youtube.com/watch?v=kQs5lX91h98)
+- ⚡ Dato curioso: Me gustan mucho los videojuegos y crear nuevas cosas, me considero creativo a hora de iniciar un proyecto
 
 <!-- About section: END -->
 
 
 <!-- Conecct section -->
 
-<h2>Connect with me </h3>
+<h2>Contáctame</h3>
     <p>
         <a href="https://linkedin.com/in/egwuenugift"><img src="https://img.shields.io/badge/-Gift%20Egwuenu%20-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=https://linkedin.com/in/egwuenugift" alt="LinkedIn Badge"></a> 
        <a href="https://twitter.com/@lauragift_
