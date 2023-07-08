@@ -3,7 +3,7 @@
 
 <!-- Profile Views -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=JuanLeon123&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=JuanLeon123&label=Profile%20views&color=0e75b6&style=flat](https://avatars.githubusercontent.com/u/95734277?s=400&u=fbeb1b7faed94d83d418191839fe25415a1e2ffa&v=4)" alt="isrealodejobi" />
 </p>
 
 <p align="center">
