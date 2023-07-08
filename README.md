@@ -29,7 +29,7 @@ Me encanta compartir mis conocimientos con los demás, y lo hago a través de la
 
 <h2>Contáctame</h3>
     <p>
-        <a href="https://linkedin.com/in/juan-diego-187865255/" target="_blank"<img src="https://img.shields.io/badge/-Juan%20Leon%20-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=https://linkedin.com/in/juan-diego-187865225/%22" alt="LinkedIn Badge"></a> 
+        <a href="https://linkedin.com/in/juan-diego-187865255/" target="_blank"> <img src="https://img.shields.io/badge/-Juan%20Leon%20-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=https://linkedin.com/in/juan-diego-187865225/%22" alt="LinkedIn Badge"></a> 
    </p>
 
  <!-- Conecct section: END -->
