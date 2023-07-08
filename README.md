@@ -48,12 +48,6 @@ Me encanta compartir mis conocimientos con los demás, y lo hago a través de la
   <summary><b>:zap: GitHub Profile Stat</b></summary>
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=JuanLeon123&show_icons=true" />
 </details>
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/JuanLeon123/"><img alt="Gift' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=JuanLeon123&custom_title=Gift's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-</details>
 
 <!-- GitHub section: END -->
 
